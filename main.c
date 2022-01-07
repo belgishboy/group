@@ -14,6 +14,6 @@ int main()
 	write(1, 101, 1);
 	write(1, 100, 1);
 	write(1, "\n<=======3\n", 11);
-	printf("changing stuff\n");
+	printf("changing stuff again\n");
 	return(0);
 }
